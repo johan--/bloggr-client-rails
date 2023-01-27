@@ -21,7 +21,7 @@ group :assets do
 end
 
 gem 'ember-rails'
-gem 'ember-source', '1.0.0.rc5'
+gem 'ember-source', '3.0.0.beta.2'
 gem 'handlebars-source', '1.0.0.rc4'
 gem 'qunit-rails'
 
